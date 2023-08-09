@@ -32,7 +32,7 @@ qbittorrent-api
 requests
 telegraph
 tenacity
-tgcrypto
+TgCrypto
 uvloop
 xattr
 yt-dlp
